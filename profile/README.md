@@ -13,7 +13,6 @@ We believe in:
 
 ## 📂 Our Open Source Projects
 - **📊 Log Viewer** – Modern, fast, and beautiful log viewer for Laravel & beyond  
-- **🔌 Plugin System** – Flexible integrations for custom workflows  
 - **⚡ Real-Time Monitoring** – Event-driven observability for apps and systems  
 - **🛠️ Dev Tools** – Packages & utilities to enhance developer experience  
 
@@ -23,7 +22,7 @@ We believe in:
 
 ## 🛠️ Tech We Use
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,php,js,ts,react,nextjs,tailwind,postgresql,mysql,sqlite,graphql,redis,aws,git,docker" />
+  <img src="https://skillicons.dev/icons?i=laravel,php,tailwind,mysql,git,filamentphp" />
 </p>
 
 ---
@@ -37,30 +36,12 @@ We love contributions from the community!
 
 Check our [Contributing Guide](CONTRIBUTING.md) to get started.  
 
----
-
-## 📈 Organization Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=logarc&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="LogArc GitHub Stats" />
-</p>
-
----
 
 ## 🌐 Join the Community
 <p align="center">
-  <a href="https://logarc.dev" target="_blank">🌍 Website</a> •
-  <a href="https://twitter.com/logarc" target="_blank">🐦 Twitter</a> •
+  <a href="https://logarc.com" target="_blank">🌍 Website</a> •
   <a href="https://linkedin.com/company/logarc" target="_blank">💼 LinkedIn</a> •
-  <a href="https://discord.gg/your-link" target="_blank">💬 Discord</a>
+  <a href="https://discord.gg/DZmpJhe8aq" target="_blank">💬 Discord</a>
 </p>
-
----
-
-## 🐍 Contribution Fun
-<p align="center">
-  <img src="https://github.com/logarc/logarc/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
----
 
 ⭐ Follow **LogArc** to stay updated on our latest open-source tools!
