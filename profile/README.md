@@ -34,9 +34,6 @@ We love contributions from the community!
 3. 🔧 Make your changes  
 4. 🚀 Submit a Pull Request  
 
-Check our [Contributing Guide](CONTRIBUTING.md) to get started.  
-
-
 ## 🌐 Join the Community
 <p align="center">
   <a href="https://logarc.com" target="_blank">🌍 Website</a> •
