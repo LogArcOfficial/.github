@@ -16,7 +16,7 @@ We believe in:
 - **⚡ Real-Time Monitoring** – Event-driven observability for apps and systems  
 - **🛠️ Dev Tools** – Packages & utilities to enhance developer experience  
 
-👉 Explore all projects in our [Repositories](https://github.com/logarc?tab=repositories).
+👉 Explore all projects in our [Repositories](https://github.com/logarcofficial?tab=repositories).
 
 ---
 
